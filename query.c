@@ -6,7 +6,7 @@
 #define PG_HOST "127.0.0.1"
 #define PG_USER "postgres"
 #define PG_DB "hotel_db"
-#define PG_PASS "banana" // da sostituire 
+#define PG_PASS "****"
 #define PG_PORT 5432
 
 void checkResults(PGresult *res, const PGconn *conn) {
